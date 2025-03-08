@@ -6,7 +6,7 @@
 #' @examples
 #' RLIFF()
 RLIFF <- function() {
-  cat("Remember Love Inspire Friends Family")
+  cat("Remember Love Inspire Friends Family\n")
 }
 
 #' HAMILTON!
@@ -17,7 +17,7 @@ RLIFF <- function() {
 #' @examples
 #' HAMILTON()
 HAMILTON <- function() {
-  cat("Dying is Easy, Young Man, Living is Harder.")
+  cat("Dying is Easy, Young Man, Living is Harder.\n")
 }
 
 #' CATCHPHRASE!
@@ -28,5 +28,5 @@ HAMILTON <- function() {
 #' @examples
 #' CATCHPHRASE()
 CATCHPHRASE <- function() {
-  cat("Just Keep Dreaming <3")
+  cat("Just Keep Dreaming <3\n")
 }
