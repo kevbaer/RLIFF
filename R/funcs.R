@@ -17,7 +17,7 @@ RLIFF <- function() {
 #' @examples
 #' HAMILTON()
 HAMILTON <- function() {
-  cat("Dying is Easy, Young Ma?n, Living is Harder.")
+  cat("Dying is Easy, Young Man, Living is Harder.")
 }
 
 #' CATCHPHRASE!
