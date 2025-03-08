@@ -29,7 +29,7 @@ You can install the development version of RLIFF from [GitHub](https://github.co
 pak::pak("kevbaer/RLIFF")
 ```
 
-...Though I'm not quite sure why you would want to!
+...Though I'm not quite sure why you would want to! (hehe)
 
 ## Example
 

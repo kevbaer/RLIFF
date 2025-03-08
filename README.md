@@ -20,7 +20,7 @@ You can install the development version of RLIFF from
 pak::pak("kevbaer/RLIFF")
 ```
 
-…Though I’m not quite sure why you would want to!
+…Though I’m not quite sure why you would want to! (hehe)
 
 ## Example
 
@@ -29,5 +29,5 @@ Look at this cool quote!
 ``` r
 library(RLIFF)
 HAMILTON()
-#> Dying is Easy, Young Ma?n, Living is Harder.
+#> Dying is Easy, Young Man, Living is Harder.
 ```
